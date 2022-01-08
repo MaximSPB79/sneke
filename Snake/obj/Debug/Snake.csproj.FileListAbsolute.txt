@@ -1,0 +1,8 @@
+C:\GB lerning\sneke\Snake\bin\Debug\Snake.exe.config
+C:\GB lerning\sneke\Snake\bin\Debug\Snake.exe
+C:\GB lerning\sneke\Snake\bin\Debug\Snake.pdb
+C:\GB lerning\sneke\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\GB lerning\sneke\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\GB lerning\sneke\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\GB lerning\sneke\Snake\obj\Debug\Snake.exe
+C:\GB lerning\sneke\Snake\obj\Debug\Snake.pdb
