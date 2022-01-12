@@ -40,16 +40,6 @@ namespace Snake
             return nextPoint;
         }
 
-        public void HandleKey (ConsoleKey key)
-        {
-            if (key == ConsoleKey.LeftArrow)
-                        snake.direction = Direction.LEFT;
-                    else if (key == ConsoleKey.RightArrow)
-                        snake.direction = Direction.RIGHT;
-                    else if (key == ConsoleKey.DounArrow)
-                        snake.direction = Direction.DOWN;
-                    else if (key == ConsoleKey.UpArrow)
-                        snake.direction = Direction.UP;
-        }
+        
     }
 }
