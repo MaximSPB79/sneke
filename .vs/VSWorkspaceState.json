@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Snake",
+    "\\Snake\\bin",
+    "\\Snake\\bin\\Debug",
+    "\\Snake\\bin\\Release",
+    "\\Snake\\Properties"
   ],
+  "SelectedNode": "\\Snake\\bin\\Debug\\Snake.exe.config",
   "PreviewInSolutionExplorer": false
 }
